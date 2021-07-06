@@ -8,3 +8,8 @@ Arithmetic operators are the simplest of all, they are used to perform basic ari
 # Data types
 In computer science, a computer data type, or simply type, is an attribute of data that tells the computer what kind of data it will handle. This includes imposing restrictions on the data, such as what values it can take and what operations it can perform. 
 - [Code](https://github.com/elmarcz/Data-types-in-Python/blob/main/README.md)
+
+# Logical operators
+Logical operations are mathematical expressions whose result is a Boolean value (true or false, in PHP, true or false). These expressions are mainly used in control structures. 
+- [Code](https://github.com/elmarcz/Simple-Phyton-projects/blob/main/Content/Logical%20operations.md)
+
