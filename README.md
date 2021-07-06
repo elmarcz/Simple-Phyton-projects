@@ -20,3 +20,7 @@ The multiple conditional statement allows us to choose a route from among severa
 # Relational operators
 When using relational operators within a conditional statement, if the result of the comparison is correct, the expression or condition is considered true. Otherwise it is considered false.
 - [Code](https://github.com/elmarcz/Simple-Phyton-projects/blob/main/Content/Relational%20operators.md)
+
+# Data Input For Keyboard
+In Phyton, keyboard input is widely used to perform operations, modify variables, repeat processes, etc.
+- [Code](https://github.com/elmarcz/Simple-Phyton-projects/blob/main/Content/Data%20input%20from%20the%20keyboard.py)
