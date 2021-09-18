@@ -30,9 +30,10 @@ In Phyton, keyboard input is widely used to perform operations, modify variables
 - [Code](https://github.com/elmarcz/Simple-Phyton-projects/blob/main/Content/Data%20input%20from%20the%20keyboard.py)
 
 ### 👤 Stay in touch
+- [Website](https://elmarcz.github.io/portfolio/)
 - [Twitter](https://twitter.com/MarcMedrano15)
 - [Discord](https://discord.com/invite/zPSYDGVXxx)
 - [Instagram](https://www.instagram.com/marcmedranoz/)
 
-### Made with ❤ by Marc Medrano
+### 🔅 Made by Marc Medrano 
 
